@@ -12,4 +12,5 @@ Hello there! 👋
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
- ![WebEdition](https://img.shields.io/badge/WebEdition-325e94)
+![WebEdition](https://img.shields.io/badge/webEdition_CMS-325e94)
+
